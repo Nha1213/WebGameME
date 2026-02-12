@@ -1,0 +1,8 @@
+[20/11/2025 21:59:46] Cannot read properties of undefined (reading 'query')
+[20/11/2025 22:05:06] Cannot read properties of undefined (reading 'query')
+[20/11/2025 22:07:06] db.query is not a function
+[20/11/2025 22:19:15] Cannot read properties of undefined (reading 'query')
+[20/11/2025 22:22:47] Cannot read properties of undefined (reading 'query')
+[20/11/2025 22:24:19] Cannot read properties of undefined (reading 'query')
+[20/11/2025 22:26:08] Cannot read properties of undefined (reading 'query')
+[20/11/2025 22:27:14] Cannot read properties of undefined (reading 'query')

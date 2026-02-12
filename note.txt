@@ -1,0 +1,10 @@
+npm i nodemon
+npm init -y
+npm i
+npm i express 
+npm i express-validator
+npm i mysql2
+npm i jsonwebtoken
+npm i bcrypt
+npm i cors
+npm i 

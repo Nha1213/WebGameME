@@ -1,0 +1,1 @@
+ALTER TABLE team ADD FOREIGN KEY (id) REFERENCES Prize_Pool(team_id);

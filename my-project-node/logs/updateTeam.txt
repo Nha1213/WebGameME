@@ -1,0 +1,8 @@
+[24/11/2025 19:48:31] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?, description = ?, team_id = ?, image = ? where id = ?' at line 1
+[24/11/2025 19:48:37] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?, description = ?, team_id = ?, image = ? where id = ?' at line 1
+[24/11/2025 19:51:32] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?, description = ?, team_id = ?, image = ? where id = ?' at line 1
+[24/11/2025 19:53:04] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?, description = ?, team_id = ?, image = ? where id = ?' at line 1
+[24/11/2025 19:55:17] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+[24/11/2025 19:55:44] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+[24/11/2025 19:57:41] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':team_name, status = :status, description = :description, team_id = :team_id, im' at line 1
+[24/11/2025 19:57:55] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':team_name, status = :status, description = :description, team_id = :team_id, im' at line 1

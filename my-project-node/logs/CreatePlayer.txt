@@ -1,0 +1,14 @@
+[04/12/2025 19:29:40] Column 'image' cannot be null
+[04/12/2025 19:35:19] Column 'image' cannot be null
+[04/12/2025 19:43:04] Column 'image' cannot be null
+[04/12/2025 19:44:55] Column 'image' cannot be null
+[04/12/2025 19:47:19] Column 'image' cannot be null
+[04/12/2025 19:48:43] Column 'image' cannot be null
+[04/12/2025 19:48:50] Column 'image' cannot be null
+[04/12/2025 19:49:02] Duplicate entry 'Nha' for key 'player.player_name'
+[04/12/2025 19:50:07] Duplicate entry 'Nha' for key 'player.player_name'
+[04/12/2025 20:30:45] Duplicate entry 'Nha' for key 'player.player_name'
+[04/12/2025 20:30:46] Duplicate entry 'Nha' for key 'player.player_name'
+[04/12/2025 20:30:47] Duplicate entry 'Nha' for key 'player.player_name'
+[05/12/2025 09:20:01] Duplicate entry 'Oppi' for key 'player_name'
+[05/12/2025 09:20:02] Duplicate entry 'Oppi' for key 'player_name'

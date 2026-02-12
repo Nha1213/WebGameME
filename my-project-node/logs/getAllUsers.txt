@@ -1,0 +1,41 @@
+[03/11/2025 16:41:43] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'use' at line 1
+[03/11/2025 16:52:46] Cannot destructure property 'name' of 'req.body' as it is undefined.
+[03/11/2025 16:55:16] Duplicate entry 'Vathana@gmail.com' for key 'email'
+[03/11/2025 16:55:21] Duplicate entry 'Vathana@gmail.com' for key 'email'
+[03/11/2025 16:55:42] Duplicate entry 'Vathana@gmail.com' for key 'email'
+[03/11/2025 17:04:04] Duplicate entry 'Vathana12@gmail.com' for key 'email'
+[03/11/2025 17:15:40] rows is not defined
+[03/11/2025 17:16:23] rows is not defined
+[03/11/2025 17:20:11] rows is not defined
+[03/11/2025 17:26:13] rows is not defined
+[18/11/2025 07:20:40] rows is not defined
+[18/11/2025 07:24:50] rows is not defined
+[18/11/2025 07:32:42] rows is not defined
+[19/11/2025 17:21:54] Cannot destructure property 'name' of 'req.body' as it is undefined.
+[19/11/2025 17:23:04] Cannot destructure property 'email' of 'req.body' as it is undefined.
+[19/11/2025 17:23:17] Cannot destructure property 'email' of 'req.body' as it is undefined.
+[19/11/2025 17:24:34] Cannot destructure property 'email' of 'req.body' as it is undefined.
+[19/11/2025 17:25:08] Cannot destructure property 'email' of 'req.body' as it is undefined.
+[19/11/2025 17:26:33] rows is not defined
+[19/11/2025 17:28:04] rows is not defined
+[19/11/2025 21:02:19] Duplicate entry 'gojo123@gmail.com' for key 'user.email'
+[19/11/2025 21:02:37] Duplicate entry 'gojo123@gmail.com' for key 'user.email'
+[19/11/2025 21:02:38] Duplicate entry 'gojo123@gmail.com' for key 'user.email'
+[19/11/2025 21:02:38] Duplicate entry 'gojo123@gmail.com' for key 'user.email'
+[19/11/2025 21:03:00] Duplicate entry 'gojo123@gmail.com' for key 'user.email'
+[19/11/2025 21:03:33] Duplicate entry 'gojo123@gmail.com' for key 'user.email'
+[19/11/2025 21:03:35] Duplicate entry 'gojo123@gmail.com' for key 'user.email'
+[19/11/2025 21:03:35] Duplicate entry 'gojo123@gmail.com' for key 'user.email'
+[20/11/2025 22:09:22] db.query is not a function
+[20/11/2025 22:09:28] db.query is not a function
+[20/11/2025 22:09:33] db.query is not a function
+[20/11/2025 22:09:54] db.query is not a function
+[20/11/2025 22:10:14] Duplicate entry 'gojo123@gmail.com' for key 'user.email'
+[20/11/2025 22:10:20] Duplicate entry 'gojo123@gmail.com' for key 'user.email'
+[20/11/2025 22:10:45] Cannot read properties of undefined (reading 'query')
+[20/11/2025 22:11:13] Cannot read properties of undefined (reading 'query')
+[20/11/2025 22:12:07] Duplicate entry 'gojo123@gmail.com' for key 'user.email'
+[20/11/2025 22:12:48] Duplicate entry 'gojo123@gmail.com' for key 'user.email'
+[20/11/2025 22:13:00] Duplicate entry 'gojo123@gmail.com' for key 'user.email'
+[20/11/2025 22:14:26] Duplicate entry 'gojo123@gmail.com' for key 'user.email'
+[20/11/2025 22:14:43] Duplicate entry 'gojo123@gmail.com' for key 'user.email'
